@@ -1,0 +1,14 @@
+ML libraries and meaning:
+    1.Pytorch-build ,train neural network
+    2.Tensorvision-Used for data processing(resize images,converts the images into tensors)
+        what is tensor?
+        A multi dimensionsal array similar as numpy.faster GPU computation
+    3.TQDm-To show training and validation progress.
+Datapreprocessing and its steps:
+    1.Load the dataset,
+    2.Resize the image,
+    3.Data Normalisation,
+    4.Data Augmentation,
+    5.Tensor conversion
+    6.Noise Reduction
+    
